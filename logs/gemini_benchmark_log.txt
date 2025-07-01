@@ -1,0 +1,292 @@
+[2025-07-01 12:26:50.627474] Christ Carrying the Cross, called "The Lord of the Fall" — 0.00s
+[2025-07-01 12:26:57.783083] Our Lady of Valvanera — 0.00s
+[2025-07-01 12:27:03.672049] Charity — 0.00s
+[2025-07-01 12:27:10.720624] Portrait of Alvise Contarini(?); (verso) A Tethered Roebuck — 0.00s
+[2025-07-01 12:27:17.680793] Portrait of a Woman, Possibly a Nun of San Secondo; (verso) Scene in Grisaille — 0.00s
+[2025-07-01 12:27:20.525152] Christ Crowned with Thorns — 0.00s
+[2025-07-01 12:27:27.438292] Virgin and Child with Four Angels — 0.00s
+[2025-07-01 12:27:30.889101] The Martyrdom of Saint Barbara — 0.00s
+[2025-07-01 12:27:37.444718] Portrait of a Woman — 0.00s
+[2025-07-01 12:27:44.729942] Josefa de Castilla Portugal y van Asbrock de Garcini (1775-about 1850) — 0.00s
+[2025-07-01 12:27:52.130207] Saint Anthony the Abbot in the Wilderness — 0.00s
+[2025-07-01 12:27:59.327482] The Birth of the Virgin — 0.00s
+[2025-07-01 12:28:07.718591] A Peasant Family — 0.00s
+[2025-07-01 12:28:15.649422] The Holy Family with the Young Saint John the Baptist — 0.00s
+[2025-07-01 12:28:22.393482] The Penitence of Saint Jerome — 0.00s
+[2025-07-01 12:28:29.525026] Great Indian Fruit Bat — 0.00s
+[2025-07-01 12:28:36.056408] Manuel Osorio Manrique de Zuñiga (1784-1792) — 0.00s
+[2025-07-01 12:28:45.854117] Madonna and Child — 0.00s
+[2025-07-01 12:28:48.133311] Saint Christopher and the Infant Christ — 0.00s
+[2025-07-01 12:28:55.171625] Ia Orana Maria (Hail Mary) — 0.00s
+[2025-07-01 12:29:03.324342] The Coronation of the Virgin — 0.00s
+[2025-07-01 12:29:11.121598] Virgin and Child — 0.00s
+[2025-07-01 12:29:17.436214] The Crucifixion with the Virgin and Saint John — 0.00s
+[2025-07-01 12:29:24.393368] Madonna and Child — 0.00s
+[2025-07-01 12:29:31.237556] The Adoration of the Shepherds — 0.00s
+[2025-07-01 12:29:37.812937] Charles Maurice de Talleyrand Périgord (1754-1838), Prince de Talleyrand — 0.00s
+[2025-07-01 12:29:45.568188] The Meditation on the Passion — 0.00s
+[2025-07-01 12:29:52.646717] Portrait of a Woman with a Man at a Casement — 0.00s
+[2025-07-01 12:29:59.691125] The Last Communion of Saint Jerome — 0.00s
+[2025-07-01 12:30:06.221233] Young Man and Woman in an Inn — 0.00s
+[2025-07-01 12:30:13.373206] The Five Points — 0.00s
+[2025-07-01 12:30:21.586575] Gilbert Stuart — 0.00s
+[2025-07-01 12:30:29.243621] Saint Rosalie Interceding for the Plague-stricken of Palermo — 0.00s
+[2025-07-01 12:30:35.912559] The Flagellation; (reverse) The Madonna of Mercy — 0.00s
+[2025-07-01 12:30:43.605127] Self-Portrait — 0.00s
+[2025-07-01 12:30:50.658163] Saint Francis — 0.00s
+[2025-07-01 12:30:59.837738] Joan of Arc — 0.00s
+[2025-07-01 12:31:04.396888] Erasmus of Rotterdam — 0.00s
+[2025-07-01 12:31:13.742774] Portrait of an Old Man — 0.00s
+[2025-07-01 12:31:22.256302] The Triumph of Fame; (reverse) Impresa of the Medici Family and Arms of the Medici and Tornabuoni Families — 0.00s
+[2025-07-01 12:31:30.600914] Christ Healing the Blind — 0.00s
+[2025-07-01 12:31:38.589237] Portrait of a Woman — 0.00s
+[2025-07-01 12:31:41.977931] Salisbury Cathedral from the Bishop's Grounds — 0.00s
+[2025-07-01 12:31:50.313085] Heroic Landscape with Rainbow — 0.00s
+[2025-07-01 12:31:58.006239] The Monet Family in Their Garden at Argenteuil — 0.00s
+[2025-07-01 12:32:06.661778] Cephalus and Procris — 0.00s
+[2025-07-01 12:32:15.122678] Virgin and Child with Saint Anne — 0.00s
+[2025-07-01 12:32:21.868230] David — 0.00s
+[2025-07-01 12:32:29.821081] Bashi-Bazouk — 0.00s
+[2025-07-01 12:32:36.856383] The Immaculate Conception — 0.00s
+[2025-07-01 12:32:47.740035] Portrait of a Carthusian — 0.00s
+[2025-07-01 12:32:53.772379] Doge Alvise Mocenigo (1507-1577) Presented to the Redeemer — 0.00s
+[2025-07-01 12:33:01.430595] A Woman with a Dog — 0.00s
+[2025-07-01 12:33:10.879589] The Adoration of the Magi — 0.00s
+[2025-07-01 12:33:16.532957] The Glorification of the Barbaro Family — 0.00s
+[2025-07-01 12:33:24.725017] Cottage Children (The Wood Gatherers) — 0.00s
+[2025-07-01 12:33:31.044662] Virgin and Child with the Young Saint John the Baptist and Angels — 0.00s
+[2025-07-01 12:33:38.531091] Antoine Laurent Lavoisier (1743-1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758-1836) — 0.00s
+[2025-07-01 12:33:46.456808] The Rest on the Flight into Egypt — 0.00s
+[2025-07-01 12:33:54.447918] The Card Players — 0.00s
+[2025-07-01 12:34:02.942302] Ignacio Garcini y Queralt (1752-1825), Brigadier of Engineers — 0.00s
+[2025-07-01 12:34:09.462811] The Storm — 0.00s
+[2025-07-01 12:34:16.620783] The Streetwalker — 0.00s
+[2025-07-01 12:34:24.077169] The Antechamber of the Sala del Maggior Consiglio — 0.00s
+[2025-07-01 12:34:34.686611] Aristotle with a Bust of Homer — 0.00s
+[2025-07-01 12:34:41.257509] Oedipus and the Sphinx — 0.00s
+[2025-07-01 12:34:49.181934] Head of Christ (Ecce Homo) — 0.00s
+[2025-07-01 12:34:58.055843] Two Men before a Waterfall at Sunset — 0.00s
+[2025-07-01 12:35:04.982939] The Death of Socrates — 0.00s
+[2025-07-01 12:35:12.260420] Hermann von Wedigh III (died 1560) — 0.00s
+[2025-07-01 12:35:20.779021] Wheat Field with Cypresses — 0.00s
+[2025-07-01 12:35:28.948142] The Crucifixion — 0.00s
+[2025-07-01 12:35:38.016265] Saint Philip Neri (1515-1595) — 0.00s
+[2025-07-01 12:35:46.368547] Clothing the Naked — 0.00s
+[2025-07-01 12:35:52.663190] Interior of the Oude Kerk, Delft — 0.00s
+[2025-07-01 12:36:01.358109] Circus Sideshow (Parade de cirque) — 0.00s
+[2025-07-01 12:36:09.402990] Portrait of a Young Man — 0.00s
+[2025-07-01 12:36:19.577857] Christ Blessing — 0.00s
+[2025-07-01 12:36:23.236314] View of the Colosseum and the Arch of Constantine from the Palatine — 0.00s
+[2025-07-01 12:36:35.067899] Two Tritons at the Feast of Acheloüs — 0.00s
+[2025-07-01 12:36:41.538927] Cows Crossing a Ford — 0.00s
+[2025-07-01 12:36:49.219049] The Adoration of the Magi — 0.00s
+[2025-07-01 12:36:57.976885] Still Life with Apples and a Pot of Primroses — 0.00s
+[2025-07-01 12:37:05.647610] Holy Family with an Angel — 0.00s
+[2025-07-01 12:37:14.864706] Portrait of a Young Man; (reverse) Girl Making a Garland — 0.00s
+[2025-07-01 12:37:22.945053] Gabriel Manigault — 0.00s
+[2025-07-01 12:37:31.074306] Mrs. Gabriel Manigault — 0.00s
+[2025-07-01 12:37:39.088216] The Chess Players — 0.00s
+[2025-07-01 12:37:47.824322] Scene from a Novella — 0.00s
+[2025-07-01 12:37:55.747571] Boating — 0.00s
+[2025-07-01 12:38:03.667902] The Marriage Feast at Cana — 0.00s
+[2025-07-01 12:38:12.160262] Christ Bearing the Cross — 0.00s
+[2025-07-01 12:38:19.865037] The Harvesters — 0.00s
+[2025-07-01 12:38:28.878847] Virgin and Child — 0.00s
+[2025-07-01 12:38:36.782484] The Holy Family with the Infant Saint John the Baptist — 0.00s
+[2025-07-01 12:38:46.097785] The Crucifixion; The Last Judgment — 0.00s
+[2025-07-01 12:38:54.504836] Salvator Mundi — 0.00s
+[2025-07-01 12:39:02.343120] Hendrickje Stoffels (1626-1663) — 0.00s
+[2025-07-01 12:39:11.772382] Salvator Mundi — 0.00s
+[2025-07-01 12:39:23.099312] The Dance Class — 0.00s
+[2025-07-01 12:39:31.490241] The Jabach Family — 0.00s
+[2025-07-01 12:39:35.712795] Flora — 0.00s
+[2025-07-01 12:39:43.257370] Head of Christ — 0.00s
+[2025-07-01 12:39:51.009369] Madonna and Child — 0.00s
+[2025-07-01 12:39:58.989988] The Annunciation — 0.00s
+[2025-07-01 12:40:07.513516] Allegory of Music — 0.00s
+[2025-07-01 12:40:14.585492] A Young Woman as a Shepherdess — 0.00s
+[2025-07-01 12:40:23.188388] The Lamentation — 0.00s
+[2025-07-01 12:40:31.678668] Saint Catherine of Siena Exchanging Her Heart with Christ — 0.00s
+[2025-07-01 12:40:39.324125] The Judgment of Paris — 0.00s
+[2025-07-01 12:40:46.429409] Virgin and Child — 0.00s
+[2025-07-01 12:40:54.267342] Study for a Portrait of a Woman — 0.00s
+[2025-07-01 12:41:01.488592] Portrait of a Man in a Chaperon — 0.00s
+[2025-07-01 12:41:10.769498] Charles Claude de Flahaut (1730-1809), Comte d'Angiviller — 0.00s
+[2025-07-01 12:41:19.207042] Self-Portrait with Two Pupils, Marie Gabrielle Capet (1761-1818) and Marie Marguerite Carraux de Rosemond (1765-1788) — 0.00s
+[2025-07-01 12:41:27.051965] Francesco d'Este (born ca. 1429, died after 1486) — 0.00s
+[2025-07-01 12:41:36.879076] Head of Christ — 0.00s
+[2025-07-01 12:41:45.283824] Teasing a Sleeping Girl — 0.00s
+[2025-07-01 12:41:53.047362] Diana and Cupid — 0.00s
+[2025-07-01 12:42:01.916757] The Adoration of the Magi — 0.00s
+[2025-07-01 12:42:07.533632] Christ Blessing, Surrounded by a Donor Family — 0.00s
+[2025-07-01 12:42:16.573501] Christ Asleep during the Tempest — 0.00s
+[2025-07-01 12:42:26.105233] Self-Portrait — 0.00s
+[2025-07-01 12:42:34.135174] Saints Peter and John Healing the Lame Man — 0.00s
+[2025-07-01 12:42:36.948786] Lake Fucino and the Abruzzi Mountains — 0.00s
+[2025-07-01 12:42:44.042668] Don Andrés de Andrade y la Cal — 0.00s
+[2025-07-01 12:42:51.123606] The Lamentation — 0.00s
+[2025-07-01 12:43:02.400355] Portrait of Sor Juana de Nuestra Señora de Guadalupe — 0.00s
+[2025-07-01 12:43:10.609635] The Stolen Kiss — 0.00s
+[2025-07-01 12:43:19.498245] Study of Water and Plants — 0.00s
+[2025-07-01 12:43:27.142285] Head of Saint John the Baptist on a Charger — 0.00s
+[2025-07-01 12:43:30.324799] The Annunciation — 0.00s
+[2025-07-01 12:43:38.707266] The Fifteen Mysteries and the Virgin of the Rosary — 0.00s
+[2025-07-01 12:43:45.522395] The Baptism of Christ — 0.00s
+[2025-07-01 12:43:51.260180] Crucifix — 0.00s
+[2025-07-01 12:43:57.799796] The Nativity with Donors and Saints Jerome and Leonard — 0.00s
+[2025-07-01 12:44:05.819254] The Forest in Winter at Sunset — 0.00s
+[2025-07-01 12:44:13.954959] Virgin and Child — 0.00s
+[2025-07-01 12:44:22.226634] Still Life of Grapes and Peaches — 0.00s
+[2025-07-01 12:44:30.918523] Portrait of a Woman, Probably Susanna Lunden (Susanna Fourment, 1599-1628) — 0.00s
+[2025-07-01 12:44:42.349490] Madonna and Child with the Infant Saint John the Baptist — 0.00s
+[2025-07-01 12:44:51.717372] Carlo Rimbotti (1518-1591) — 0.00s
+[2025-07-01 12:44:59.791131] Portrait of a Man in Armor with Two Pages — 0.00s
+[2025-07-01 12:45:08.116464] The Old Italian Woman — 0.00s
+[2025-07-01 12:45:17.452380] The Musicians — 0.00s
+[2025-07-01 12:45:25.482410] A Musician and His Daughter — 0.00s
+[2025-07-01 12:45:32.740745] Chancellor Leonhard von Eck (1480-1550) — 0.00s
+[2025-07-01 12:45:46.112661] The Servant Justified — 0.00s
+[2025-07-01 12:45:54.453400] Queen Charlotte — 0.00s
+[2025-07-01 12:46:03.557915] Portrait of a Boy — 0.00s
+[2025-07-01 12:46:13.302975] The Musician — 0.00s
+[2025-07-01 12:46:19.495069] Madonna and Child with Saints — 0.00s
+[2025-07-01 12:46:28.881605] Abraham — 0.00s
+[2025-07-01 12:46:36.534676] Portrait of a Young Man — 0.00s
+[2025-07-01 12:46:44.324871] Springtime — 0.00s
+[2025-07-01 12:46:55.097086] The Vocation of Saint Aloysius (Luigi) Gonzaga — 0.00s
+[2025-07-01 12:47:01.245420] Saint Romuald — 0.00s
+[2025-07-01 12:47:08.404625] Judith with the Head of Holofernes — 0.00s
+[2025-07-01 12:47:15.607636] Saint Francis in Ecstasy — 0.00s
+[2025-07-01 12:47:22.748882] A Benedictine Monk — 0.00s
+[2025-07-01 12:47:30.520539] The Man of Sorrows — 0.00s
+[2025-07-01 12:47:37.892483] Benedikt von Hertenstein (born about 1495, died 1522) — 0.00s
+[2025-07-01 12:47:44.159558] A Man Seated and Asleep — 0.00s
+[2025-07-01 12:47:47.368420] Mary of Burgundy — 0.00s
+[2025-07-01 12:47:53.851258] Christ on the Cross — 0.00s
+[2025-07-01 12:48:01.736170] Margherita Gonzaga (1591-1632), Princess of Mantua — 0.00s
+[2025-07-01 12:48:09.809107] Portrait of a Man — 0.00s
+[2025-07-01 12:48:18.231621] Madonna and Child — 0.00s
+[2025-07-01 12:48:27.326143] Venus and the Lute Player — 0.00s
+[2025-07-01 12:48:35.820249] Pope Clement X (1590-1676) — 0.00s
+[2025-07-01 12:48:43.541716] The Holy Family — 0.00s
+[2025-07-01 12:48:50.971096] Flowers in a Grotesque Vase — 0.00s
+[2025-07-01 12:49:00.264316] Saint Lawrence Enthroned with Saints and Donors — 0.00s
+[2025-07-01 12:49:06.891031] A River in a Meadow — 0.00s
+[2025-07-01 12:49:16.343265] The Fortune-Teller — 0.00s
+[2025-07-01 12:49:23.531125] The Last Judgment — 0.00s
+[2025-07-01 12:49:31.458021] Woman Playing a Guitar — 0.00s
+[2025-07-01 12:49:39.987971] Portrait of a Woman — 0.00s
+[2025-07-01 12:49:47.666134] Saint Michael — 0.00s
+[2025-07-01 12:49:53.435615] Christ's Descent into Hell — 0.00s
+[2025-07-01 12:50:01.186314] Man in Prayer — 0.00s
+[2025-07-01 12:50:07.173269] Vanitas Still Life — 0.00s
+[2025-07-01 12:50:15.538856] Head of a Donor — 0.00s
+[2025-07-01 12:50:22.717540] The Penitent Magdalen — 0.00s
+[2025-07-01 12:50:31.562051] The Flagellation — 0.00s
+[2025-07-01 12:50:37.588692] Young Woman with a Pink — 0.00s
+[2025-07-01 12:50:46.359987] The Pérussis Altarpiece — 0.00s
+[2025-07-01 12:50:54.144234] Horsewoman — 0.00s
+[2025-07-01 12:51:02.532732] The Crucifixion — 0.00s
+[2025-07-01 12:51:09.407412] Noah — 0.00s
+[2025-07-01 12:51:17.477653] Charles I (1600-1649), King of England — 0.00s
+[2025-07-01 12:51:23.218696] Philip IV (1605-1665), King of Spain — 0.00s
+[2025-07-01 12:51:30.646851] Jean Marc Nattier (1685-1766) — 0.00s
+[2025-07-01 12:51:40.631491] Don Gaspar de Guzmán (1587-1645), Count-Duke of Olivares — 0.00s
+[2025-07-01 12:51:43.681079] Saint Catherine of Alexandria — 0.00s
+[2025-07-01 12:51:52.346069] Christ Crowned with Thorns (Ecce Homo), and the Mourning Virgin (Mater Dolorosa) — 0.00s
+[2025-07-01 12:51:59.474240] Moses — 0.00s
+[2025-07-01 12:52:02.796970] Pope Benedict XIV (Prospero Lambertini, 1675-1758) — 0.00s
+[2025-07-01 12:52:09.909769] The Crucifixion — 0.00s
+[2025-07-01 12:52:17.120153] A Book Peddler — 0.00s
+[2025-07-01 12:52:23.441110] The Horse Fair — 0.00s
+[2025-07-01 12:52:27.565931] Saint Maurice — 0.00s
+[2025-07-01 12:52:36.907451] Bust-Length Study of a Man — 0.00s
+[2025-07-01 12:52:45.867601] The Agony in the Garden — 0.00s
+[2025-07-01 12:52:52.281855] A Knight of Alcántara or Calatrava — 0.00s
+[2025-07-01 12:53:00.892226] Virgin and Child — 0.00s
+[2025-07-01 12:53:09.435064] The Natchez — 0.00s
+[2025-07-01 12:53:16.914923] The Nativity — 0.00s
+[2025-07-01 12:53:24.887793] Arcadia — 0.00s
+[2025-07-01 12:53:31.986215] The Disillusioned Medea — 0.00s
+[2025-07-01 12:53:36.751175] The Dormition of the Virgin; (reverse) Christ Carrying the Cross — 0.00s
+[2025-07-01 12:53:45.386799] Head of a Bishop — 0.00s
+[2025-07-01 12:53:54.063553] Madonna Adoring the Child with the Infant Saint John the Baptist and an Angel — 0.00s
+[2025-07-01 12:54:02.615638] Madonna and Child with Saints — 0.00s
+[2025-07-01 12:54:10.186108] The Crucifixion with Donors and Saints Peter and Margaret of Antioch — 0.00s
+[2025-07-01 12:54:17.944204] Virgin and Child — 0.00s
+[2025-07-01 12:54:26.004510] A Section of the Via Sacra, Rome (The Church of Saints Cosmas and Damian) — 0.00s
+[2025-07-01 12:54:27.714779] Virgin and Child in an Apse — 0.00s
+[2025-07-01 12:54:34.886852] Young Man Holding a Book — 0.00s
+[2025-07-01 12:54:42.608427] Hortensia — 0.00s
+[2025-07-01 12:54:49.895881] Portrait of an Old Man — 0.00s
+[2025-07-01 12:54:56.693868] Amida Manifesting in the Dharma-body of Expedient Means — 0.00s
+[2025-07-01 12:55:04.814894] Saints Matthew and Francis — 0.00s
+[2025-07-01 12:55:08.965366] Spring Landscape — 0.00s
+[2025-07-01 12:55:17.146129] The Net Mender (Garnbinderen) — 0.00s
+[2025-07-01 12:55:25.012322] Saint Mary Magdalen Holding a Crucifix; (reverse) The Flagellation — 0.00s
+[2025-07-01 12:55:33.046085] Madonna and Child — 0.00s
+[2025-07-01 12:55:42.546797] Saints Michael and Francis — 0.00s
+[2025-07-01 12:55:50.618059] Study Head of a Young Woman — 0.00s
+[2025-07-01 12:55:59.834311] The Dormition of the Virgin — 0.00s
+[2025-07-01 12:56:08.232458] The Annunciation — 0.00s
+[2025-07-01 12:56:15.723223] Portrait of a "Mamelouk" — 0.00s
+[2025-07-01 12:56:24.093098] The Temptation of Saint Mary Magdalen — 0.00s
+[2025-07-01 12:56:31.175149] Portrait of a Man — 0.00s
+[2025-07-01 12:56:39.167028] Virgin and Child with a Dragonfly — 0.00s
+[2025-07-01 12:56:48.923621] The Declaration of Love — 0.00s
+[2025-07-01 12:56:55.283593] Christ before Pilate; The Resurrection — 0.00s
+[2025-07-01 12:57:03.138509] L'Arlésienne: Madame Joseph-Michel Ginoux (Marie Julien, 1848-1911) — 0.00s
+[2025-07-01 12:57:11.269639] A Donor Presented by a Saint — 0.00s
+[2025-07-01 12:57:17.931584] Christ Appearing to His Mother — 0.00s
+[2025-07-01 12:57:26.105960] The Adoration of the Christ Child — 0.00s
+[2025-07-01 12:57:37.143920] A Maid Asleep — 0.00s
+[2025-07-01 12:57:41.063561] Salome — 0.00s
+[2025-07-01 12:57:51.283380] Two Angels — 0.00s
+[2025-07-01 12:57:59.156744] Saint Christopher and the Infant Christ — 0.00s
+[2025-07-01 12:58:00.847893] An Artist Painting a Heraldic Shield in a Cabinet of Curiosities — 0.00s
+[2025-07-01 12:58:11.065445] Virgin and Child with Angels — 0.00s
+[2025-07-01 12:58:18.659192] Chrysanthemums in the Garden at Petit-Gennevilliers — 0.00s
+[2025-07-01 12:58:21.761982] The Coronation of the Virgin, and Saints — 0.00s
+[2025-07-01 12:58:30.377730] Léon Pallière (1787-1820) in His Room at the Villa Medici, Rome — 0.00s
+[2025-07-01 12:58:36.080034] Saint John the Baptist; Saint Lucy — 0.00s
+[2025-07-01 12:58:44.472388] Madame Grand (Noël Catherine Vorlée, 1761-1835) — 0.00s
+[2025-07-01 12:58:55.112189] Nymph of the Spring — -1.00s
+[2025-07-01 12:59:05.087899] Jo, La Belle Irlandaise — 0.00s
+[2025-07-01 12:59:14.445330] The Apotheosis of the Spanish Monarchy — 0.00s
+[2025-07-01 12:59:22.799497] Bullfight in a Divided Ring — 0.00s
+[2025-07-01 12:59:32.325759] Christ Taking Leave of His Mother — 0.00s
+[2025-07-01 12:59:34.949950] Saint Paul with a Donor; Christ Appearing to His Mother — 0.00s
+[2025-07-01 12:59:42.411347] Saint Andrew — 0.00s
+[2025-07-01 12:59:50.234453] Madonna and Child — 0.00s
+[2025-07-01 12:59:56.789297] The Life of the Virgin — 0.00s
+[2025-07-01 13:00:05.882687] The Annunciation — 0.00s
+[2025-07-01 13:00:14.012098] The Apotheosis of the Spanish Monarchy — 0.00s
+[2025-07-01 13:00:21.391338] The Crucifixion — 0.00s
+[2025-07-01 13:00:29.777054] The Englishman (William Tom Warrener, 1861-1934) at the Moulin Rouge — 0.00s
+[2025-07-01 13:00:37.397974] The Parable of the Mote and the Beam — 0.00s
+[2025-07-01 13:00:45.361290] Joseph Interpreting the Dreams of Pharaoh — 0.00s
+[2025-07-01 13:00:52.395472] Katharina Merian — 0.00s
+[2025-07-01 13:01:00.096115] Jalais Hill, Pontoise — 0.00s
+[2025-07-01 13:01:07.964244] The Sofa — 0.00s
+[2025-07-01 13:01:15.660564] The Martyrdom of Saint Lawrence; (reverse) Giving Drink to the Thirsty — 0.00s
+[2025-07-01 13:01:18.886597] Lions in a Mountainous Landscape — 0.00s
+[2025-07-01 13:01:27.613189] The Annunciation — 0.00s
+[2025-07-01 13:01:35.919156] The Flight into Egypt — 0.00s
+[2025-07-01 13:01:44.586540] Melancholy Courtesan — 0.00s
+[2025-07-01 13:01:51.385197] Honfleur — 0.00s
+[2025-07-01 13:01:58.979006] Portrait of a Woman of the Slosgin Family of Cologne — 0.00s
+[2025-07-01 13:02:06.125978] Madonna and Child — 0.00s
+[2025-07-01 13:02:13.540984] Virgin and Child — 0.00s
+[2025-07-01 13:02:22.504831] The Toilette of Venus — 0.00s
+[2025-07-01 13:02:30.229992] The Last Supper — 0.00s
+[2025-07-01 13:02:38.988422] Prayer in the Mosque — 0.00s
+[2025-07-01 13:02:45.024014] Virgin and Child in a Niche — 0.00s
+[2025-07-01 13:02:52.327379] Market by the Seashore — 0.00s
+[2025-07-01 13:03:00.579131] Still Life with a Vase of Flowers, Melon, Peaches, and Grapes — 0.00s
+[2025-07-01 13:03:08.500535] Salome with the Head of Saint John the Baptist — 0.00s
+[2025-07-01 13:03:16.239312] Saint Ansanus — 0.00s
+[2025-07-01 13:03:23.794241] Madonna and Child Enthroned with Saints — 0.00s
+[2025-07-01 13:03:31.261129] A Woman Reading — 0.00s
+[2025-07-01 13:03:40.355871] The Birth and Naming of Saint John the Baptist; (reverse) Trompe-l'oeil with Painting of The Man of Sorrows — 0.00s
+[2025-07-01 13:03:48.452388] Saint Reparata Tortured with Red-Hot Irons — 0.00s
+[2025-07-01 13:03:57.236796] Guillaume Budé (1467-1540) — 0.00s

@@ -3,6 +3,9 @@
 # print(f"sys.path: {sys.path}")
 # print(f"Python3 executable: {sys.executable}")
 
+import warnings
+warnings.filterwarnings("error")
+
 import os
 import json
 import time
@@ -58,7 +61,7 @@ Only use the values provided in each category.
 - figure_presence: [FIGURES_PRESENT, FIGURES_ABSENT]
 - dominant_setting: [LANDSCAPE_NATURE, URBAN_ARCHITECTURE, INTERIOR_SPACE, ABSTRACT_NONE]
 
-Return your response in this exact JSON format:
+Return a single response in this exact JSON format:
 
 {
   "description": "...",
@@ -80,15 +83,16 @@ def load_image_bytes(image_path):
 
 # --- Query Gemini with retry ---
 def query_gemini(image_path, title, retries=3, delay=2):
-    img_bytes = load_image_bytes(image_path)
+    img = Image.open(image_path).convert("RGB")
     prompt = f'{SCHEMA_PROMPT}\n\nPainting title: "{title}"\n'
     
     for attempt in range(retries):
         try:
-            start = time.time()
-            response = model.generate_content([prompt, img_bytes], generation_config={"temperature": 0.4})
-            duration = time.time() - start
-            return response.text.strip(), duration
+            # start = time.time()
+            response = model.generate_content([prompt, img], generation_config={"temperature": 0.4})
+            print(response.text)
+            # duration = time.time() - start
+            return response.text.strip(), 0
         except Exception as e:
             if attempt < retries - 1:
                 time.sleep(delay)
@@ -98,6 +102,52 @@ def query_gemini(image_path, title, retries=3, delay=2):
 # --- Load input and existing results (resumable) ---
 with open(INPUT_JSON, "r") as f:
     paintings = json.load(f)
+
+
+def find_first_json(text):
+    """Find and parse the first valid JSON object in a string."""
+    import json
+    decoder = json.JSONDecoder()
+    idx = 0
+    while idx < len(text):
+        try:
+            obj, end = decoder.raw_decode(text[idx:])
+            return obj
+        except json.JSONDecodeError:
+            idx += 1
+    raise ValueError("No valid JSON object found in the text.")
+
+
+# --- DEBUG MODE: Single Image Test ---
+print("\n🔍 Running diagnostic test on first painting...\n")
+test_entry = paintings[0]
+test_title = test_entry["title"]
+test_path = test_entry["local_path"]
+
+print(f"▶️ Title: {test_title}")
+print(f"📍 Path: {test_path}")
+if not os.path.exists(test_path):
+    print("❌ Image file not found.")
+else:
+    raw_response, duration = query_gemini(test_path, test_title)
+    print(f"⏱️ Took {duration:.2f} sec")
+    print("\n🧠 Raw model output:")
+    print(raw_response)
+
+    print("\n📦 Trying to parse JSON:")
+    try:
+        parsed = find_first_json(raw_response)
+        print("✅ Parsed successfully")
+        print(json.dumps(parsed, indent=2))
+    except Exception as e:
+        print("❌ Failed to parse:")
+        print(e)
+
+print("\n🧪 End of diagnostic block\n")
+
+
+
+
 
 if os.path.exists(OUTPUT_JSON):
     with open(OUTPUT_JSON, "r") as f:
@@ -125,7 +175,7 @@ for painting in tqdm(paintings):
         continue
 
     try:
-        parsed = json.loads(response_text)
+        parsed = find_first_json(response_text)
         results.append({
             "title": title,
             "image_path": image_path,
