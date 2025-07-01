@@ -1,0 +1,13 @@
+Weighting Scale for symbolic profiles:
+
+0.3 (Very High Impact): A highly defining characteristic of the emotion. Without it, the emotion would likely be significantly diminished or absent.
+
+0.25 (High Impact): A strong, often necessary, contributor to the emotion.
+
+0.2 (Moderate-High Impact): A significant contributor, often reinforcing the primary elements.
+
+0.15 (Moderate Impact): A noticeable, supporting factor.
+
+0.1 (Low Impact but Relevant): Contributes, but subtly or in a supporting role.
+
+0.05 (Minor Impact/Contextual): Present but not a primary driver; might be more about absence or a very subtle reinforcement.

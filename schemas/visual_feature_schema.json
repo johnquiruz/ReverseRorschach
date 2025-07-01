@@ -1,0 +1,83 @@
+{
+  "color": {
+    "dominant_hue_family": [
+      "HUE_WARM",
+      "HUE_COOL",
+      "HUE_NEUTRAL"
+    ],
+    "brightness_value": [
+      "BRIGHT_HIGH_KEY",
+      "MEDIUM_MID_TONE",
+      "DARK_LOW_KEY"
+    ],
+    "saturation_intensity": [
+      "VIBRANT_HIGH_SATURATION",
+      "MUTED_LOW_SATURATION"
+    ]
+  },
+
+  "composition": {
+    "overall_balance": [
+      "SYMMETRICAL_STATIC",
+      "ASYMMETRICAL_DYNAMIC",
+      "UNBALANCED_TENSE"
+    ],
+    "dominant_direction": [
+      "UPWARD_ASCENDING",
+      "DOWNWARD_DESCENDING",
+      "HORIZONTAL_STILL",
+      "DIAGONAL_MOVEMENT"
+    ],
+    "spatial_feeling": [
+      "OPEN_EXPANSIVE",
+      "CONFINED_ENCLOSED",
+      "SPARSE_EMPTY",
+      "DENSE_CLUTTERED"
+    ]
+  },
+
+  "line_shape": {
+    "dominant_line_quality": [
+      "STRAIGHT_GEOMETRIC",
+      "CURVED_ORGANIC",
+      "JAGGED_BROKEN"
+    ],
+    "implied_form": [
+      "ANGULAR_RIGID",
+      "FLUID_SOFT"
+    ]
+  },
+
+  "lighting_shadow": {
+    "light_quality": [
+      "BRIGHT_EVEN",
+      "DRAMATIC_CONTRAST",
+      "DIM_GLOOMY"
+    ],
+    "shadow_presence": [
+      "PROMINENT_SHADOWS",
+      "SUBTLE_SHADOWS",
+      "NO_SHADOWS"
+    ]
+  },
+
+  "texture_brushwork": {
+    "surface_feel": [
+      "SMOOTH_BLENDED",
+      "ROUGH_VISIBLE_BRUSHSTROKES"
+    ]
+  },
+
+  "subject_matter": {
+    "figure_presence": [
+      "FIGURES_PRESENT",
+      "FIGURES_ABSENT"
+    ],
+    "dominant_setting": [
+      "LANDSCAPE_NATURE",
+      "URBAN_ARCHITECTURE",
+      "INTERIOR_SPACE",
+      "ABSTRACT_NONE"
+    ]
+  }
+}

@@ -1,0 +1,931 @@
+{
+  "Joy_Happiness": {
+    "description": "A feeling of great pleasure and happiness; high positive affect.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_WARM"], "weight": 0.25},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.25}
+      },
+      "composition": {
+        "overall_balance": {"values": ["ASYMMETRICAL_DYNAMIC"], "weight": 0.15},
+        "dominant_direction": {"values": ["UPWARD_ASCENDING", "DIAGONAL_MOVEMENT"], "weight": 0.2},
+        "spatial_feeling": {"values": ["OPEN_EXPANSIVE"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["BRIGHT_EVEN"], "weight": 0.15},
+        "shadow_presence": {"values": ["NO_SHADOWS", "SUBTLE_SHADOWS"], "weight": 0.05}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.2},
+        "dominant_setting": {"values": ["LANDSCAPE_NATURE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Excitement_Thrill": {
+    "description": "A feeling of intense enthusiasm, stimulation, or exhilaration.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_WARM"], "weight": 0.2},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY"], "weight": 0.15},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.25}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE", "ASYMMETRICAL_DYNAMIC"], "weight": 0.25},
+        "dominant_direction": {"values": ["DIAGONAL_MOVEMENT"], "weight": 0.25},
+        "spatial_feeling": {"values": ["DENSE_CLUTTERED"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.2},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.15}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST"], "weight": 0.2},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.15}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.1},
+        "dominant_setting": {"values": ["URBAN_ARCHITECTURE"], "weight": 0.1}
+      }
+    }
+  },
+
+  "Serenity_Calmness": {
+    "description": "A state of feeling peaceful and untroubled; quiet contentment.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL"], "weight": 0.25},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY"], "weight": 0.15},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.25},
+        "dominant_direction": {"values": ["HORIZONTAL_STILL"], "weight": 0.25},
+        "spatial_feeling": {"values": ["OPEN_EXPANSIVE", "SPARSE_EMPTY"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["BRIGHT_EVEN"], "weight": 0.2},
+        "shadow_presence": {"values": ["SUBTLE_SHADOWS", "NO_SHADOWS"], "weight": 0.05}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.1}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_ABSENT"], "weight": 0.1},
+        "dominant_setting": {"values": ["LANDSCAPE_NATURE"], "weight": 0.2}
+      }
+    }
+  },
+
+  "Peace_Tranquility": {
+    "description": "A profound state of undisturbed calm and quiet, often spiritual.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_NEUTRAL"], "weight": 0.25},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY"], "weight": 0.15},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.25},
+        "dominant_direction": {"values": ["HORIZONTAL_STILL"], "weight": 0.25},
+        "spatial_feeling": {"values": ["SPARSE_EMPTY"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["BRIGHT_EVEN"], "weight": 0.2},
+        "shadow_presence": {"values": ["NO_SHADOWS"], "weight": 0.1}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.1}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_ABSENT"], "weight": 0.15},
+        "dominant_setting": {"values": ["LANDSCAPE_NATURE"], "weight": 0.2}
+      }
+    }
+  },
+
+  "Sadness_Sorrow": {
+    "description": "A feeling of deep unhappiness or grief; generally negative affect.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_NEUTRAL"], "weight": 0.25},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.25},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.15},
+        "dominant_direction": {"values": ["DOWNWARD_DESCENDING"], "weight": 0.25},
+        "spatial_feeling": {"values": ["CONFINED_ENCLOSED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.2}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.2},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Melancholy_Somberness": {
+    "description": "A feeling of pensive sadness, often with a reflective or nostalgic quality.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_NEUTRAL"], "weight": 0.2},
+        "brightness_value": {"values": ["DARK_LOW_KEY", "MEDIUM_MID_TONE"], "weight": 0.2},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["ASYMMETRICAL_DYNAMIC"], "weight": 0.1},
+        "dominant_direction": {"values": ["HORIZONTAL_STILL", "DOWNWARD_DESCENDING"], "weight": 0.2},
+        "spatial_feeling": {"values": ["SPARSE_EMPTY"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.25},
+        "shadow_presence": {"values": ["SUBTLE_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.2},
+        "dominant_setting": {"values": ["LANDSCAPE_NATURE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Anger_Fury": {
+    "description": "Strong feelings of displeasure, hostility, or rage.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_WARM"], "weight": 0.25},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.15},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.25}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.25},
+        "dominant_direction": {"values": ["DIAGONAL_MOVEMENT"], "weight": 0.25},
+        "spatial_feeling": {"values": ["DENSE_CLUTTERED"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.25},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.2}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST"], "weight": 0.2},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.2}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.15},
+        "dominant_setting": {"values": ["URBAN_ARCHITECTURE"], "weight": 0.1}
+      }
+    }
+  },
+
+  "Fear_Terror": {
+    "description": "An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_NEUTRAL"], "weight": 0.2},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.25},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.15}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.25},
+        "dominant_direction": {"values": ["DIAGONAL_MOVEMENT"], "weight": 0.2},
+        "spatial_feeling": {"values": ["CONFINED_ENCLOSED", "DENSE_CLUTTERED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.25},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.2}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST", "DIM_GLOOMY"], "weight": 0.3},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.25}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.1}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.15},
+        "dominant_setting": {"values": ["URBAN_ARCHITECTURE"], "weight": 0.1}
+      }
+    }
+  },
+
+  "Tension_Unease": {
+    "description": "A state of mental or emotional strain or suspense; subtle discomfort.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL", "HUE_COOL"], "weight": 0.15},
+        "brightness_value": {"values": ["MEDIUM_MID_TONE", "DARK_LOW_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.15}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.25},
+        "dominant_direction": {"values": ["DIAGONAL_MOVEMENT"], "weight": 0.2},
+        "spatial_feeling": {"values": ["CONFINED_ENCLOSED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.2},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.15}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.2}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.1}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.15},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.1}
+      }
+    }
+  },
+
+  "Disgust_Revulsion": {
+    "description": "A feeling of revulsion or strong disapproval aroused by something unpleasant or offensive.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL", "HUE_COOL"], "weight": 0.2},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.15}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.2},
+        "dominant_direction": {"values": ["DOWNWARD_DESCENDING"], "weight": 0.15},
+        "spatial_feeling": {"values": ["DENSE_CLUTTERED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.2},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.15}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.2},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.25}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.2},
+        "dominant_setting": {"values": ["URBAN_ARCHITECTURE"], "weight": 0.1}
+      }
+    }
+  },
+
+  "Boredom_Apathy": {
+    "description": "A state of weariness and dissatisfaction; lack of interest or emotion.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL"], "weight": 0.25},
+        "brightness_value": {"values": ["MEDIUM_MID_TONE"], "weight": 0.2},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.2},
+        "dominant_direction": {"values": ["HORIZONTAL_STILL"], "weight": 0.25},
+        "spatial_feeling": {"values": ["SPARSE_EMPTY"], "weight": 0.25}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["STRAIGHT_GEOMETRIC"], "weight": 0.15},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["BRIGHT_EVEN"], "weight": 0.15},
+        "shadow_presence": {"values": ["NO_SHADOWS"], "weight": 0.05}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.1}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT", "FIGURES_ABSENT"], "weight": 0.1},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Curiosity_Intrigue": {
+    "description": "A strong desire to know or learn something; a sense of mystery or fascination.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_NEUTRAL"], "weight": 0.15},
+        "brightness_value": {"values": ["MEDIUM_MID_TONE", "DARK_LOW_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.15}
+      },
+      "composition": {
+        "overall_balance": {"values": ["ASYMMETRICAL_DYNAMIC"], "weight": 0.2},
+        "dominant_direction": {"values": ["DIAGONAL_MOVEMENT"], "weight": 0.15},
+        "spatial_feeling": {"values": ["DENSE_CLUTTERED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.15},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.2}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.1}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_ABSENT"], "weight": 0.15},
+        "dominant_setting": {"values": ["ABSTRACT_NONE"], "weight": 0.2}
+      }
+    }
+  },
+
+  "Surprise_Astonishment": {
+    "description": "A sudden feeling of wonder or disbelief.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_WARM", "HUE_COOL"], "weight": 0.15},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.25}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.25},
+        "dominant_direction": {"values": ["DIAGONAL_MOVEMENT"], "weight": 0.2},
+        "spatial_feeling": {"values": ["DENSE_CLUTTERED"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.2},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.15}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.2}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.1}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.15},
+        "dominant_setting": {"values": ["URBAN_ARCHITECTURE"], "weight": 0.1}
+      }
+    }
+  },
+
+  "Awe_Wonder": {
+    "description": "A feeling of reverential respect mixed with fear or wonder, typically evoked by something grand or powerful.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_WARM"], "weight": 0.2},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY", "DARK_LOW_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION", "MUTED_LOW_SATURATION"], "weight": 0.15}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.25},
+        "dominant_direction": {"values": ["UPWARD_ASCENDING"], "weight": 0.25},
+        "spatial_feeling": {"values": ["OPEN_EXPANSIVE"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["STRAIGHT_GEOMETRIC", "CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["ANGULAR_RIGID", "FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST", "BRIGHT_EVEN"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS", "SUBTLE_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_ABSENT"], "weight": 0.1},
+        "dominant_setting": {"values": ["LANDSCAPE_NATURE"], "weight": 0.25}
+      }
+    }
+  },
+
+  "Contemplation_Reflection": {
+    "description": "The action of looking thoughtfully at something for a long time; deep meditative thought.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL", "HUE_COOL"], "weight": 0.2},
+        "brightness_value": {"values": ["MEDIUM_MID_TONE", "DARK_LOW_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.15}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.2},
+        "dominant_direction": {"values": ["HORIZONTAL_STILL"], "weight": 0.25},
+        "spatial_feeling": {"values": ["SPARSE_EMPTY"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["STRAIGHT_GEOMETRIC"], "weight": 0.15},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.2},
+        "shadow_presence": {"values": ["SUBTLE_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.1}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.15},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Nostalgia_Longing": {
+    "description": "A sentimental yearning for the happiness of a former place or time; deep yearning for something absent.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL", "HUE_COOL"], "weight": 0.2},
+        "brightness_value": {"values": ["MEDIUM_MID_TONE"], "weight": 0.15},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["ASYMMETRICAL_DYNAMIC"], "weight": 0.1},
+        "dominant_direction": {"values": ["HORIZONTAL_STILL"], "weight": 0.15},
+        "spatial_feeling": {"values": ["OPEN_EXPANSIVE"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.2},
+        "shadow_presence": {"values": ["SUBTLE_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.25},
+        "dominant_setting": {"values": ["LANDSCAPE_NATURE"], "weight": 0.2}
+      }
+    }
+  },
+
+  "Confusion_Disorientation": {
+    "description": "A feeling of bewilderment or a loss of sense of direction or position.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL"], "weight": 0.15},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.1}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.3},
+        "dominant_direction": {"values": ["DIAGONAL_MOVEMENT"], "weight": 0.25},
+        "spatial_feeling": {"values": ["DENSE_CLUTTERED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.25},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.2}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.2}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.15}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_ABSENT"], "weight": 0.1},
+        "dominant_setting": {"values": ["ABSTRACT_NONE"], "weight": 0.25}
+      }
+    }
+  },
+
+  "Love_Affection": {
+    "description": "An intense feeling of deep affection; warmth and closeness.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_WARM"], "weight": 0.25},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.1},
+        "dominant_direction": {"values": ["HORIZONTAL_STILL"], "weight": 0.15},
+        "spatial_feeling": {"values": ["CONFINED_ENCLOSED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.15},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["BRIGHT_EVEN"], "weight": 0.15},
+        "shadow_presence": {"values": ["SUBTLE_SHADOWS"], "weight": 0.05}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.1}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.3},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Devotion_Adoration": {
+    "description": "Profound dedication and intense love; often spiritual reverence.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_WARM"], "weight": 0.15},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY", "DARK_LOW_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.15}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.25},
+        "dominant_direction": {"values": ["UPWARD_ASCENDING"], "weight": 0.25},
+        "spatial_feeling": {"values": ["SPARSE_EMPTY"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["STRAIGHT_GEOMETRIC"], "weight": 0.1},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST"], "weight": 0.2},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.3},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.1}
+      }
+    }
+  },
+
+  "Admiration_Respect": {
+    "description": "A feeling of warm approval or respect for something or someone.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_NEUTRAL"], "weight": 0.15},
+        "brightness_value": {"values": ["MEDIUM_MID_TONE"], "weight": 0.15},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.1}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.25},
+        "dominant_direction": {"values": ["UPWARD_ASCENDING"], "weight": 0.2},
+        "spatial_feeling": {"values": ["OPEN_EXPANSIVE"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["STRAIGHT_GEOMETRIC"], "weight": 0.15},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["BRIGHT_EVEN"], "weight": 0.15},
+        "shadow_presence": {"values": ["SUBTLE_SHADOWS"], "weight": 0.05}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.25},
+        "dominant_setting": {"values": ["URBAN_ARCHITECTURE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Empathy_Compassion": {
+    "description": "The ability to understand and share the feelings of another; sympathetic concern.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_NEUTRAL"], "weight": 0.2},
+        "brightness_value": {"values": ["MEDIUM_MID_TONE"], "weight": 0.15},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["ASYMMETRICAL_DYNAMIC"], "weight": 0.1},
+        "dominant_direction": {"values": ["DOWNWARD_DESCENDING"], "weight": 0.2},
+        "spatial_feeling": {"values": ["CONFINED_ENCLOSED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.2},
+        "shadow_presence": {"values": ["SUBTLE_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.3},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Isolation_Loneliness": {
+    "description": "The state of being alone; a feeling of sadness at being alone.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL", "HUE_COOL"], "weight": 0.25},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.25},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SPARSE_EMPTY"], "weight": 0.2},
+        "dominant_direction": {"values": ["HORIZONTAL_STILL"], "weight": 0.15},
+        "spatial_feeling": {"values": ["SPARSE_EMPTY"], "weight": 0.25}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["STRAIGHT_GEOMETRIC"], "weight": 0.1},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.2},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.25},
+        "dominant_setting": {"values": ["LANDSCAPE_NATURE"], "weight": 0.2}
+      }
+    }
+  },
+
+  "Hope_Optimism": {
+    "description": "A feeling of expectation and desire for something positive to happen.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_WARM", "HUE_COOL"], "weight": 0.2},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY"], "weight": 0.25},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["ASYMMETRICAL_DYNAMIC"], "weight": 0.15},
+        "dominant_direction": {"values": ["UPWARD_ASCENDING"], "weight": 0.25},
+        "spatial_feeling": {"values": ["OPEN_EXPANSIVE"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["BRIGHT_EVEN"], "weight": 0.15},
+        "shadow_presence": {"values": ["NO_SHADOWS"], "weight": 0.05}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.2},
+        "dominant_setting": {"values": ["LANDSCAPE_NATURE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Despair_Hopelessness": {
+    "description": "A complete loss or absence of hope.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL", "HUE_COOL"], "weight": 0.25},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.25},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.2},
+        "dominant_direction": {"values": ["DOWNWARD_DESCENDING"], "weight": 0.25},
+        "spatial_feeling": {"values": ["CONFINED_ENCLOSED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.1},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.2}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.25},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Power_Dominance": {
+    "description": "The ability or right to control or command; a feeling of superiority or authority.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_WARM", "HUE_NEUTRAL"], "weight": 0.2},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.15}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.25},
+        "dominant_direction": {"values": ["UPWARD_ASCENDING"], "weight": 0.25},
+        "spatial_feeling": {"values": ["OPEN_EXPANSIVE"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["STRAIGHT_GEOMETRIC"], "weight": 0.2},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.15}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.2}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.2},
+        "dominant_setting": {"values": ["URBAN_ARCHITECTURE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Vulnerability_Helplessness": {
+    "description": "The state of being exposed to the possibility of being attacked or harmed; feeling powerless.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL", "HUE_COOL"], "weight": 0.2},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.25},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.2},
+        "dominant_direction": {"values": ["DOWNWARD_DESCENDING"], "weight": 0.25},
+        "spatial_feeling": {"values": ["CONFINED_ENCLOSED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.15},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.2}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.25},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Pride_Triumph": {
+    "description": "A feeling of deep pleasure or satisfaction derived from one's own achievements, or from the achievements of those with whom one is closely associated; great victory.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_WARM"], "weight": 0.25},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY"], "weight": 0.2},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.2},
+        "dominant_direction": {"values": ["UPWARD_ASCENDING"], "weight": 0.25},
+        "spatial_feeling": {"values": ["OPEN_EXPANSIVE"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["STRAIGHT_GEOMETRIC"], "weight": 0.15},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["BRIGHT_EVEN"], "weight": 0.15},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.05}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.25},
+        "dominant_setting": {"values": ["URBAN_ARCHITECTURE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Shame_Guilt": {
+    "description": "A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_NEUTRAL", "HUE_COOL"], "weight": 0.25},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.25},
+        "saturation_intensity": {"values": ["MUTED_LOW_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.2},
+        "dominant_direction": {"values": ["DOWNWARD_DESCENDING"], "weight": 0.25},
+        "spatial_feeling": {"values": ["CONFINED_ENCLOSED"], "weight": 0.2}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.1},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.1}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DIM_GLOOMY"], "weight": 0.25},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.2}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.05}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_PRESENT"], "weight": 0.25},
+        "dominant_setting": {"values": ["INTERIOR_SPACE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Beauty_Elegance": {
+    "description": "The quality of being pleasing, especially to look at, or a refined grace or dignity.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_COOL", "HUE_WARM"], "weight": 0.2},
+        "brightness_value": {"values": ["BRIGHT_HIGH_KEY", "MEDIUM_MID_TONE"], "weight": 0.15},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION", "MUTED_LOW_SATURATION"], "weight": 0.15}
+      },
+      "composition": {
+        "overall_balance": {"values": ["SYMMETRICAL_STATIC"], "weight": 0.25},
+        "dominant_direction": {"values": ["HORIZONTAL_STILL", "UPWARD_ASCENDING"], "weight": 0.2},
+        "spatial_feeling": {"values": ["OPEN_EXPANSIVE"], "weight": 0.15}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["CURVED_ORGANIC"], "weight": 0.2},
+        "implied_form": {"values": ["FLUID_SOFT"], "weight": 0.15}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["BRIGHT_EVEN"], "weight": 0.2},
+        "shadow_presence": {"values": ["SUBTLE_SHADOWS", "NO_SHADOWS"], "weight": 0.05}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["SMOOTH_BLENDED"], "weight": 0.15}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_ABSENT"], "weight": 0.1},
+        "dominant_setting": {"values": ["LANDSCAPE_NATURE"], "weight": 0.15}
+      }
+    }
+  },
+
+  "Chaos_Disorder": {
+    "description": "A state of utter confusion or lack of order.",
+    "visual_profile": {
+      "color": {
+        "dominant_hue_family": {"values": ["HUE_WARM", "HUE_NEUTRAL"], "weight": 0.15},
+        "brightness_value": {"values": ["DARK_LOW_KEY"], "weight": 0.15},
+        "saturation_intensity": {"values": ["VIBRANT_HIGH_SATURATION"], "weight": 0.2}
+      },
+      "composition": {
+        "overall_balance": {"values": ["UNBALANCED_TENSE"], "weight": 0.3},
+        "dominant_direction": {"values": ["DIAGONAL_MOVEMENT"], "weight": 0.25},
+        "spatial_feeling": {"values": ["DENSE_CLUTTERED"], "weight": 0.25}
+      },
+      "line_shape": {
+        "dominant_line_quality": {"values": ["JAGGED_BROKEN"], "weight": 0.3},
+        "implied_form": {"values": ["ANGULAR_RIGID"], "weight": 0.2}
+      },
+      "lighting_shadow": {
+        "light_quality": {"values": ["DRAMATIC_CONTRAST"], "weight": 0.2},
+        "shadow_presence": {"values": ["PROMINENT_SHADOWS"], "weight": 0.15}
+      },
+      "texture_brushwork": {
+        "surface_feel": {"values": ["ROUGH_VISIBLE_BRUSHSTROKES"], "weight": 0.25}
+      },
+      "subject_matter": {
+        "figure_presence": {"values": ["FIGURES_ABSENT"], "weight": 0.1},
+        "dominant_setting": {"values": ["ABSTRACT_NONE"], "weight": 0.25}
+      }
+    }
+  }
+}
