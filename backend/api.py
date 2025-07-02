@@ -38,7 +38,7 @@ def search(query: str = Query(...), top_k: int = 5):
         text_features /= text_features.norm(dim=-1, keepdim=True)
         vector = text_features.cpu().numpy().astype("float32")
 
-    D, I = faiss_index.search(vector, top_k)
+    D, I = faiss_index.search(vector, top_k)  # Search the FAISS index
 
     results = []
     for idx in I[0]:
