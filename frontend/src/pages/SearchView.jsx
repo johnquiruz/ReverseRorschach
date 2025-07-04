@@ -15,8 +15,9 @@ export default function SearchView() {
     };
 
     return (
-        <div class="blue-grey darken-2 grey-text lighten-5 container">
-            <h1>Semantic Painting Search</h1>
+        <div class="blue-grey darken-2 grey-text lighten-6 container">
+            <h1>ReverseRorschach</h1>
+            <h3>Search for emotions in paintings</h3>
             <div>
                 <input
                     type="text"
@@ -27,15 +28,39 @@ export default function SearchView() {
                 <button onClick={handleSearch}>Search</button>
             </div>
             {loading && <p>Loading results...</p>}
-            <div class="row">
+            <div>
                 {results.map((result, index) => (
-                    <div key={index}>
+                    <div class="row" key={index}>
                         <h2 class="col s12">{result.title}</h2>
-                        <p class="col s12">{result.description}</p>
-                        <img class="col s12" src={result.image_path} alt={result.title} />
-                        <pre class="col s12">
-                            {JSON.stringify(result.symbolic_tags, null, 2)}
-                        </pre>
+                        <h4 class="col s12">by {result.author}</h4>
+                        <div class="row">
+                            <img class="col s7" src={result.image_path} alt={result.title} />
+                            <div
+                                class="col s5"
+                                style={{
+                                    background: "rgba(0,0,0,0.08)", // very faint transparent background
+                                    padding: "12px",
+                                    marginBottom: "8px"
+                                }}
+                            >
+                                <p><strong>GEMINI:</strong></p>
+                                <div style={{
+                                    background: "rgba(0,0,0,0.06)",
+                                    padding: "8px",
+                                    marginBottom: "15px"
+                                }}>
+                                    {result.description}
+                                </div>
+                                <p><strong>VISUAL SIGNATURE (AI-INFERRED):</strong></p>
+                                <pre style={{
+                                    background: "rgba(0,0,0,0.06)",
+                                    padding: "8px",
+                                    margin: 0
+                                }}>
+                                    {JSON.stringify(result.symbolic_tags, null, 2)}
+                                </pre>
+                            </div>
+                        </div>
                     </div>
                 ))}
             </div>

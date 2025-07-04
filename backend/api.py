@@ -24,6 +24,8 @@ with open("data/embeddings/image_id_mapping.json") as f:
     id_map = json.load(f)
 with open("data/visual_features_gemini.json") as f:
     visual_tags = {entry["title"]: entry for entry in json.load(f)}
+with open("data/paintings_with_local_paths.json") as f:
+    paintings_info = {entry["title"]: entry for entry in json.load(f)}
 
 # --- Load CLIP model ---
 model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32").eval()
@@ -44,9 +46,17 @@ def search(query: str = Query(...), top_k: int = 5):
     for idx in I[0]:
         item = id_map.get(str(idx), {})
         title = item.get("title")
-        tags = visual_tags.get(title, {}).get("symbolic_tags", {})
+        tags_entry = visual_tags.get(title, {})
+        tags = tags_entry.get("symbolic_tags", {})
+        description = tags_entry.get("description", "")
+
+        # Get author from paintings_with_local_paths.json
+        author = paintings_info.get(title, {}).get("artist")
+
         results.append({
             "title": title,
+            "author": author,
+            "description": description,
             "image_path": item.get("image_path"),
             "symbolic_tags": tags
         })
