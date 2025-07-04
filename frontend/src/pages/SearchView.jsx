@@ -15,17 +15,19 @@ export default function SearchView() {
     };
 
     return (
-        <div class="blue-grey darken-2 grey-text lighten-6 container">
+        <div class="blue-grey darken-2 grey-text lighten-6 container" style={{ paddingLeft: "30px", paddingRight: "30px" }}>
+            
             <h1>ReverseRorschach</h1>
             <h3>Search for emotions in paintings</h3>
-            <div>
+            <div style={{ padding: "16px 0" }}>
                 <input
                     type="text"
                     value={query}
                     placeholder="Try 'longing', 'sadness', or 'joy'..."
                     onChange={(e) => setQuery(e.target.value)}
+                    style={{ color: "tomato", fontSize: "28px", padding: "8px" }} // Only input text color and padding
                 />
-                <button onClick={handleSearch}>Search</button>
+                <button style={{ padding: "8px 16px" }} onClick={handleSearch}>Search</button>
             </div>
             {loading && <p>Loading results...</p>}
             <div>
@@ -38,7 +40,7 @@ export default function SearchView() {
                             <div
                                 class="col s5"
                                 style={{
-                                    background: "rgba(0,0,0,0.08)", // very faint transparent background
+                                    background: "rgba(0,0,0,0.0)", // very faint transparent background
                                     padding: "12px",
                                     marginBottom: "8px"
                                 }}
