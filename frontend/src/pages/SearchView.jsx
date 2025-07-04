@@ -25,7 +25,7 @@ export default function SearchView() {
                     value={query}
                     placeholder="Try 'longing', 'sadness', or 'joy'..."
                     onChange={(e) => setQuery(e.target.value)}
-                    style={{ color: "tomato", fontSize: "28px", padding: "8px" }} // Only input text color and padding
+                    style={{ color: "tomato", fontSize: "24px", padding: "8px" }} // Only input text color and padding
                 />
                 <button style={{ padding: "8px 16px" }} onClick={handleSearch}>Search</button>
             </div>
