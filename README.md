@@ -4,6 +4,26 @@
 
 The semantic meaning of each painting is mapped using advanced AI reasoning and mathematical proximity, allowing users to search for artworks based on emotional or conceptual queries. The AI analyzes and organizes the paintings in a way that reflects their inferred emotional and symbolic content.
 
+## Get Started
+Install packages:
+```bash
+# in a virtual environment
+pip install -r requirements.txt
+```
+Run frontend:
+```bash
+cd frontend/
+npm install
+npm run dev
+```
+Run backend:
+```bash
+# in a new terminal cd to project root
+uvicorn backend.api:app --reload
+```
+View project:
+Open [http://localhost:5173/](http://localhost:5173) to view application
+
 <img src="./reverse-rorschach-walkthrough.gif" />
 
 **Disclaimer:**  
