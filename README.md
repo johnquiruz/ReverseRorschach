@@ -21,7 +21,6 @@ Run backend:
 # in a new terminal cd to project root
 uvicorn backend.api:app --reload
 ```
-View project:
 Open [http://localhost:5173/](http://localhost:5173) to view application
 
 <img src="./reverse-rorschach-walkthrough.gif" />
